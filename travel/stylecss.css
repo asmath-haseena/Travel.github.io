@@ -1,0 +1,29 @@
+.headingText {
+	font-size: 38px;
+	color: #09F;
+	margin: 5px;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px rgb(0, 0, 0);
+	text-align: center;
+}
+
+.paraText {
+	line-height: 25px;
+	padding: 10px;
+	text-align: justify;
+
+
+}
+
+.image {
+	border: rgb(204, 33, 247);
+	border-image: fill;
+}
+
+.middletext {
+	font-size: 15px;
+	color: #333;
+	font-weight: bold;
+
+
+}
